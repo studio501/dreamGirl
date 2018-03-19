@@ -1,0 +1,540 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/beauty/1-7/7-9.jpg
+SHA1-Digest: 0MBSr8ursaypze3aJtw8gyVdlOI=
+
+Name: assets/beauty/1-4/4-11.jpg
+SHA1-Digest: hYWpvf7pRxuvYDRSt30eMt7SYH4=
+
+Name: assets/beauty/1-1/1-14.jpg
+SHA1-Digest: WtotZ1vw5kZbSPp1hf2FjKp6/ZQ=
+
+Name: assets/beauty/1-4/4-16.jpg
+SHA1-Digest: f/0mRtoge81ueeLUxtBG2Tu2k/A=
+
+Name: assets/beauty/1-1/1-6.jpg
+SHA1-Digest: OHCP9Vcr+AAO3DDf5B5nbW3MbXo=
+
+Name: assets/beauty/1-5/5-14.jpg
+SHA1-Digest: zWWoY52k+M1p/zDLt+TcY6TqXbQ=
+
+Name: assets/music/sound_ef_level_unlock.mp3
+SHA1-Digest: juMYj8sFkO5dFSsp2djuvTmpnDI=
+
+Name: assets/beauty/1-6/6-2.jpg
+SHA1-Digest: JTrpWkBSrd1BYr4InMnVmzuPEro=
+
+Name: assets/beauty/1-7/7-4.jpg
+SHA1-Digest: IJPVeSiNfii8hZi3tlWU7wQ5wjA=
+
+Name: assets/beauty/1-5/5-1.jpg
+SHA1-Digest: wyyVhHuZpF9zDRR3FZEHGEd64is=
+
+Name: assets/beauty/1-5/5-10.jpg
+SHA1-Digest: I0kvnWFIMZALz/8E/gC8yRvkDrc=
+
+Name: assets/beauty/1-5/5-3.jpg
+SHA1-Digest: IjzZdSqkVT21cd4iJC67lksmXcE=
+
+Name: assets/beauty/1-3/3-2.jpg
+SHA1-Digest: EiifURPqePfzlxf5ev8hfEsZ3R4=
+
+Name: assets/beauty/1-boss/boss_3.jpg
+SHA1-Digest: JAW7T3YXdyWMOsy1hbeQlO3JlTE=
+
+Name: assets/beauty/1-1/1-4.jpg
+SHA1-Digest: G4Px+l1Tlseus6PRGNOOUUrhE0s=
+
+Name: assets/beauty/1-7/7-1.jpg
+SHA1-Digest: iu+pBzHYyqdXmJ0FRNayZgxLTNs=
+
+Name: res/drawable-hdpi/pop_up_box_bg.9.png
+SHA1-Digest: ynBSlAL5r2C6z7Rfbv4YuqI3NQE=
+
+Name: assets/beauty/1-2/2-10.jpg
+SHA1-Digest: T9Wu6V9j09y7+/e/ygJ48eo6trA=
+
+Name: assets/beauty/1-boss/boss_2.jpg
+SHA1-Digest: 7xBCTmmqSNokvY04JVZRiL0Dzqs=
+
+Name: assets/beauty/1-5/5-6.jpg
+SHA1-Digest: 5v1ZXSa/nctNWuZYNppJlA+d4f0=
+
+Name: assets/beauty/1-6/6-14.jpg
+SHA1-Digest: zV2cP3i7xfQITVtTBAxsKZ2CNxQ=
+
+Name: res/drawable-hdpi/egame_icon_arrow.png
+SHA1-Digest: ju6kY6tPpn53JIR8T1g/RQ3/CsY=
+
+Name: assets/beauty/1-7/7-10.jpg
+SHA1-Digest: iq3FnRl/O9Gsb/omvOWXT3sUb5g=
+
+Name: assets/beauty/1-1/1-2.jpg
+SHA1-Digest: piOibM30zVK6t02PMqoeyV45enI=
+
+Name: assets/beauty/1-1/1-17.jpg
+SHA1-Digest: rR/LiWCk2TM3eHISN2ZNY/ZDMwk=
+
+Name: assets/beauty/1-1/1-13.jpg
+SHA1-Digest: tGrQm1sDZKqXrn03KqoY9T38cMg=
+
+Name: assets/beauty/1-2/2-16.jpg
+SHA1-Digest: uNtL3zHQhSlh/vkzuJAFdqRNpv8=
+
+Name: assets/beauty/1-boss/boss_7.jpg
+SHA1-Digest: 9yn1u6ykU1N7mpT/AntntZWNpsM=
+
+Name: assets/beauty/1-4/4-2.jpg
+SHA1-Digest: Vn/863AmP5akHbmMr/qrZ77HZD0=
+
+Name: assets/beauty/1-5/5-5.jpg
+SHA1-Digest: 89WJuX4+BGO3dxuNZLk2OwlxyYY=
+
+Name: assets/level/beauty_4.js
+SHA1-Digest: NDBGneAlMTpWh+1oPk7MHjmAxxY=
+
+Name: assets/beauty/1-boss/boss_5.jpg
+SHA1-Digest: U5n5B3lSaSwBxb0RvV8WTubo9q8=
+
+Name: assets/beauty/1-2/2-2.jpg
+SHA1-Digest: mHl1FfLBjHhOhGHjs7CmQJaqOfY=
+
+Name: assets/music/sound_ef_stage_cpt.mp3
+SHA1-Digest: m2jKsAgQSPuGRtNfZEIPXAMoWjs=
+
+Name: res/drawable-hdpi/egame_close_button_normal.9.png
+SHA1-Digest: 6eG6GVnz7A4hnRKXnzoGxTEBYB0=
+
+Name: res/drawable-hdpi/egame_close_button_press.9.png
+SHA1-Digest: x3m8Riss5t7iGiaOQImQ9ceLIpI=
+
+Name: assets/PanelLoseSleepOver.ExportJson
+SHA1-Digest: fDa1giHNezGyBzEXS96lp+Yg+/E=
+
+Name: assets/music/sound_ef_level_cpt.mp3
+SHA1-Digest: aJnQ8LGiByc7SpEoulOj8uRnP3Q=
+
+Name: assets/beauty/1-2/2-17.jpg
+SHA1-Digest: ehHabUv5CQvpjTfwtwNMoJCzX7E=
+
+Name: res/drawable-hdpi/egame_blue_button_press.9.png
+SHA1-Digest: htt+174fGCr+BNCR19cRCcq+dv0=
+
+Name: assets/beauty/1-2/2-7.jpg
+SHA1-Digest: 39dBpp/OZqWQXQi6srcuN4nAC10=
+
+Name: assets/beauty/1-2/2-14.jpg
+SHA1-Digest: fzrbX/Y8yLMnZZqpESPjRpAZcJI=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Nq8q3HeTluE5JNCBpVvNy3BXtJI=
+
+Name: assets/beauty/1-4/4-3.jpg
+SHA1-Digest: u+2N/JiFyQS53vJE27Pk7gtGIis=
+
+Name: lib/armeabi/libsmsprotocol.so
+SHA1-Digest: YjxaQcKsJK3Kf14510KFO2YFWI4=
+
+Name: assets/beauty/1-4/4-17.jpg
+SHA1-Digest: sZS519g/UUlGwfAOP5jypfj3wS0=
+
+Name: assets/music/sound_ef_level_failed.mp3
+SHA1-Digest: c+bxp8ahTSNFsUblPMB+F2Qh2RE=
+
+Name: assets/beauty/1-1/1-8.jpg
+SHA1-Digest: xgX5aIp6WablpR0ILcQ/kCl71JM=
+
+Name: assets/beauty/1-7/7-3.jpg
+SHA1-Digest: f+1hxoeSnJuRoykHH7jiQfqP0e8=
+
+Name: resources.arsc
+SHA1-Digest: kW+eSyPl6bHmZovFN3Idb2tdfYY=
+
+Name: res/layout/splashcp.xml
+SHA1-Digest: 0n0tMw7CkvMMo+YcDUBqe4UnylE=
+
+Name: assets/beauty/1-6/6-12.jpg
+SHA1-Digest: BaDoRFp1FIhBUzB8sD+/jxx4uYg=
+
+Name: assets/beauty/1-boss/boss_1.jpg
+SHA1-Digest: 4nnJazZkiruwbKs7euRRY2/HouE=
+
+Name: assets/PanelSelectLock.ExportJson
+SHA1-Digest: t4vgw+7XloCVWANdnLkhNkk4QM4=
+
+Name: assets/beauty/1-3/3-10.jpg
+SHA1-Digest: RppXZh648mexjzsqdlbxojlb6R0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: oFOzDeAYbSfAxXLVcylpe6u2G+4=
+
+Name: assets/beauty/1-4/4-8.jpg
+SHA1-Digest: /D8XGuiC1t3Otars3yOSUE3EPz0=
+
+Name: assets/MainMenu0.png
+SHA1-Digest: HuVqy4kmtnbuX/ERlolb37swzHg=
+
+Name: assets/beauty/1-3/3-16.jpg
+SHA1-Digest: zu74p9wudpOuoTpCnH+JJQXoIsA=
+
+Name: assets/beauty/1-5/5-16.jpg
+SHA1-Digest: PJhOofbO9JjFfxOHncSwmgyGpf0=
+
+Name: assets/PlayBeginTip.ExportJson
+SHA1-Digest: QfwILeAoAG7f+o6DY51MAwDpWUk=
+
+Name: assets/beauty/1-7/7-5.jpg
+SHA1-Digest: iMkaVZSRcV3ufDRlfKxedtdO6Eg=
+
+Name: assets/MainMenu.ExportJson
+SHA1-Digest: +S+sQovzhW8TwD5zAOIiDASEai4=
+
+Name: assets/beauty/1-5/5-12.jpg
+SHA1-Digest: QQm+63rA+juarYi/3DEgyGYZwJw=
+
+Name: assets/BeautyCard.ExportJson
+SHA1-Digest: z29iXPh9yBFhUp1LmJ64V+dH8Xo=
+
+Name: assets/beauty/1-7/7-7.jpg
+SHA1-Digest: j7/0v/ZBiVgvkEz0A8lZI3OOTwg=
+
+Name: assets/beauty/1-1/1-5.jpg
+SHA1-Digest: bv/kDrl2qz3i/Y6IntvJIsIwmWQ=
+
+Name: assets/beauty/1-6/6-11.jpg
+SHA1-Digest: 5P8tb86F9xHwhVEUCiHXkPYpTaw=
+
+Name: assets/beauty/1-3/3-13.jpg
+SHA1-Digest: pL+LgMHu/JyXQiSEaEwUSZV6heA=
+
+Name: assets/MainMenu0.plist
+SHA1-Digest: /R3DVyi0Ob8EQ7y0twmYEKKsiN4=
+
+Name: assets/w12p.png
+SHA1-Digest: o6/tMZkQcdojoltFP/Htq0WzEYs=
+
+Name: assets/beauty/1-1/1-15.jpg
+SHA1-Digest: lsIYLmh1PVI7NLmNXpr+HytNcXw=
+
+Name: assets/beauty/1-7/7-6.jpg
+SHA1-Digest: 3jhejewGvG68ts8in6vyDVqfl00=
+
+Name: classes.dex
+SHA1-Digest: VrXrCur9crSqgYQk5sT7Ox+mre4=
+
+Name: assets/w12p.fnt
+SHA1-Digest: +M/8LY56ywAvm1Kj1w2X880GnVo=
+
+Name: assets/beauty/1-2/2-13.jpg
+SHA1-Digest: 5a48yG3N1sYEiU4Yk4ljhjMNRRo=
+
+Name: assets/beauty/1-6/6-13.jpg
+SHA1-Digest: 7WeTJdybVYOD0rpxBHZ8GZaNJos=
+
+Name: assets/beauty/1-2/2-8.jpg
+SHA1-Digest: x1m6TN5mMW2Oiu+q3kwYll0RxC0=
+
+Name: assets/beauty/1-5/5-4.jpg
+SHA1-Digest: PAByR1y9CZ5Y8J0n8+D3A+LJK6M=
+
+Name: assets/music/sound_mu_game.mp3
+SHA1-Digest: BlaMl4u6A4Rx4IwfY15jYyOwzmU=
+
+Name: assets/beauty/1-1/1-3.jpg
+SHA1-Digest: YFOhhLCt0d5IdV7Hh7kuQwTFOX0=
+
+Name: assets/beauty/1-1/1-16.jpg
+SHA1-Digest: IuFX9p4CuTx27EsxuRQlbgSOLLY=
+
+Name: res/drawable/egame_fee_btn_selector.xml
+SHA1-Digest: 7iv6/a2LYkdEoIopDwWvJ6Fji8A=
+
+Name: res/drawable/egame_fee_btn_close_selector.xml
+SHA1-Digest: wkN1Ks4/FlkHCPbk9wLcp9tgyM0=
+
+Name: assets/level/beauty_3.js
+SHA1-Digest: X3DxGgix8PcUuBZWpMJ7/6btt/g=
+
+Name: assets/PanelWin.ExportJson
+SHA1-Digest: evQy1NF+ejUHf+w6fMX/Eu5QpLI=
+
+Name: assets/PanelEvil.ExportJson
+SHA1-Digest: JmWsLkBLpFVR1qjIOw39Q0k6a3Q=
+
+Name: assets/beauty/1-3/3-15.jpg
+SHA1-Digest: j2sUjBgSwZi14aESRwIKA9i97Go=
+
+Name: assets/PanelSet.ExportJson
+SHA1-Digest: 40Aa0O6F0+cxeyGJtdoxFRycpI8=
+
+Name: assets/beauty/1-4/4-12.jpg
+SHA1-Digest: eI13N/YDKRWbffTgblG2owIXzfc=
+
+Name: assets/beauty/1-6/6-4.jpg
+SHA1-Digest: QCQWiljG+3OWwMyx+nrrxoZcK7c=
+
+Name: assets/beauty/1-3/3-14.jpg
+SHA1-Digest: R8IPeVNst1idCAyD5VXm0rPJDcc=
+
+Name: assets/beauty/1-6/6-10.jpg
+SHA1-Digest: j1Ee3bsgWGUdJKusUlpskum9rks=
+
+Name: assets/beauty/1-3/3-9.jpg
+SHA1-Digest: 5mN6zkbmZpbeGAGsCqI7VBQjd6A=
+
+Name: assets/beauty/1-3/3-3.jpg
+SHA1-Digest: TezSpvG95wTx1sSXHzY10YXMW34=
+
+Name: assets/level/beauty_6.js
+SHA1-Digest: qrnZf5leBZfnQ3mLGn57Vpr3QlM=
+
+Name: assets/beauty/1-1/1-7.jpg
+SHA1-Digest: 8wgO57dLE84alx/oCUNXYWx4N1M=
+
+Name: assets/beauty/1-5/5-15.jpg
+SHA1-Digest: 2/07EExEhclmatfVkGPtVTebiLE=
+
+Name: assets/beauty/1-4/4-14.jpg
+SHA1-Digest: P3SSpmh39iiytfeV9UNeNzI1AbA=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: i3DNWM3N5KyYU50AewGsjGi7Jrk=
+
+Name: assets/beauty/1-7/7-13.jpg
+SHA1-Digest: njLmrIqVauvi+f+4ZiP7gh82EDo=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: i3DNWM3N5KyYU50AewGsjGi7Jrk=
+
+Name: assets/beauty/1-6/6-3.jpg
+SHA1-Digest: hOGQFDvMR5C7zkcpDDWJXaDmhi4=
+
+Name: assets/beauty/1-1/1-12.jpg
+SHA1-Digest: KTGaj0kN6aamtyGqEZEJanQMeZQ=
+
+Name: assets/BuyTime.ExportJson
+SHA1-Digest: vkVPNqwuobOxmJCe0wjnF6GlCg8=
+
+Name: assets/beauty/1-boss/boss_6.jpg
+SHA1-Digest: qNHjhzkRiaaHVgnWR/9z1Fke0/o=
+
+Name: assets/beauty/1-2/2-12.jpg
+SHA1-Digest: urcHlZNJ5VOkLzcfh89Ozt/eGGI=
+
+Name: res/drawable-hdpi/egame_blue_button_normal.9.png
+SHA1-Digest: KWWQBlE7I6lPZeO2IVM24PlTzsk=
+
+Name: res/drawable-hdpi/cp_logo.jpg
+SHA1-Digest: Y6UNF/O+aBKMsO0GK1yHhpo35ZU=
+
+Name: assets/beauty/1-6/6-9.jpg
+SHA1-Digest: EIoU/rB47WflBa93Q6WmRBLRhkA=
+
+Name: assets/PanelGallery.ExportJson
+SHA1-Digest: FUOn9zTmFSZvHdU9Cm4GGibtR08=
+
+Name: assets/beauty/1-2/2-15.jpg
+SHA1-Digest: qIrotshs1A3D8GL8FdPV+H9aQ9E=
+
+Name: assets/beauty/1-1/1-10.jpg
+SHA1-Digest: hkPAJageZLQfD/8feuUvLzDYT6s=
+
+Name: assets/beauty/1-2/2-11.jpg
+SHA1-Digest: vOZS0WHolAQ08B7XYrObOWxyHvU=
+
+Name: assets/beauty/1-2/2-6.jpg
+SHA1-Digest: yGr6IAJIcg55nowaPy7naUwrGpk=
+
+Name: assets/beauty/1-4/4-7.jpg
+SHA1-Digest: rIUvP9UvFzcJdBYdSfNdi53wtDw=
+
+Name: assets/beauty/1-5/5-17.jpg
+SHA1-Digest: 0iQMYqLjBmw9FOfmqfeIMzTFZbM=
+
+Name: assets/beauty/1-5/5-7.jpg
+SHA1-Digest: jiF5ZOq78Ilzb7uV+w6Is9f5XhI=
+
+Name: assets/beauty/1-2/2-5.jpg
+SHA1-Digest: MVdm5wQQLKLq9TA4q/jlhbn2vvo=
+
+Name: assets/beauty/1-7/7-12.jpg
+SHA1-Digest: ZBqGpPs6UtSwUVv6vBZofODalJo=
+
+Name: assets/beauty/1-4/4-6.jpg
+SHA1-Digest: jE2OTrAFrUpGDrlCvnfkDaUXrqc=
+
+Name: assets/beauty/1-3/3-12.jpg
+SHA1-Digest: Lhbrm6b3a20TXfZ4GTh0dR16XLs=
+
+Name: assets/beauty/1-4/4-15.jpg
+SHA1-Digest: +NgcMXbk/Ze9LxwC7w1kJrHSZvA=
+
+Name: assets/beauty/1-7/7-8.jpg
+SHA1-Digest: RAIwIQWLyKQKVuyMxke1RgzoGko=
+
+Name: assets/beauty/1-2/2-9.jpg
+SHA1-Digest: kUtvHBtkqegA5IYS74vC7kwrO70=
+
+Name: assets/beauty/1-4/4-5.jpg
+SHA1-Digest: N1Q7uGnyIsS+wPdOMcqRt7GNa04=
+
+Name: assets/beauty/1-3/3-4.jpg
+SHA1-Digest: wV8W22CN2Xi6FIS4iu6Rmu6FECQ=
+
+Name: assets/beauty/1-6/6-5.jpg
+SHA1-Digest: T3UFzXFWUlH3OdDdaER8IPZEzeI=
+
+Name: assets/beauty/1-1/1-11.jpg
+SHA1-Digest: uxHZ9EG2A/bgJRyDChh3rb8BtNg=
+
+Name: assets/beauty/1-3/3-7.jpg
+SHA1-Digest: MOkng63a0SfY/FRwtqdbnczP6+4=
+
+Name: assets/beauty/1-3/3-6.jpg
+SHA1-Digest: i1LT6rjQY/Z9HXgU3o2knF+MEfA=
+
+Name: assets/beauty/1-5/5-13.jpg
+SHA1-Digest: u8sHl6FrbAZXBlRc0ZzXIgqR9S0=
+
+Name: assets/BuySleep.ExportJson
+SHA1-Digest: QwJpzfYl8kP4VJ8DF/Cw9ie7Rc4=
+
+Name: assets/beauty/1-7/7-2.jpg
+SHA1-Digest: GmmZyRDtkSHhEnqUPUPY/vwagcE=
+
+Name: assets/beauty/1-2/2-3.jpg
+SHA1-Digest: NsmyK8yTRTGjRtk7iUC3oCM/M1Y=
+
+Name: assets/BuyGuide.ExportJson
+SHA1-Digest: B4GTAIq/joQBYIO+b7xUeNOsa7I=
+
+Name: assets/beauty/1-5/5-18.jpg
+SHA1-Digest: DpfQ4dZPqgHBndr2ueIKoYC+JhU=
+
+Name: assets/beauty/1-2/2-1.jpg
+SHA1-Digest: O+M43Hy1XSxU7nuzDvn6YBEjcwQ=
+
+Name: assets/beauty/1-3/3-8.jpg
+SHA1-Digest: vjosbxhKW2HXTPMBZ4cMLtGYFr4=
+
+Name: assets/beauty/1-5/5-11.jpg
+SHA1-Digest: Ik/sKie7hGr3j0o5MfMpQc8F2io=
+
+Name: res/drawable-hdpi/sp_logo.jpg
+SHA1-Digest: X5nF7yd3+y9OEY7QkJRHm/vyJY0=
+
+Name: assets/music/sound_ef_click.mp3
+SHA1-Digest: 8DP5bsEKi+ScFQv8fPMB6Y+YjSM=
+
+Name: assets/beauty/1-boss/boss_4.jpg
+SHA1-Digest: 7MNy7J0M9yzf64p7o1geFQhf1Rg=
+
+Name: assets/beauty/1-7/7-11.jpg
+SHA1-Digest: HNWAPVtY9b9+yHPNJtPmRN0KUYw=
+
+Name: res/layout/splashsp.xml
+SHA1-Digest: UXHHmlSeLQj8+qazTJpdtLkInQ4=
+
+Name: assets/PanelLoseTimeOver.ExportJson
+SHA1-Digest: qj+cjOPrUaDh31EIRnZeSiYYMS8=
+
+Name: assets/beauty/1-2/2-4.jpg
+SHA1-Digest: N+4WxwOoCbIBiJgMj+gge9SNzAI=
+
+Name: assets/beauty/1-6/6-15.jpg
+SHA1-Digest: zUu+AAaDFHJ64L7yauv4r3pIkRo=
+
+Name: assets/PlayGroundUI.ExportJson
+SHA1-Digest: M9f1Onwv79cGnWuzLeIL3Zvr7z0=
+
+Name: assets/feeInfo.dat
+SHA1-Digest: rTgcTfbRkSCqLpHUj2rUnYkKSoo=
+
+Name: assets/beauty/1-4/4-13.jpg
+SHA1-Digest: H4bcxxmTKUVnLPlCOXxZeZ0/K1w=
+
+Name: assets/beauty/1-5/5-9.jpg
+SHA1-Digest: GVX5PfKVX/0BLiXgqgB/AOhIvHY=
+
+Name: assets/beauty/1-3/3-11.jpg
+SHA1-Digest: EZxJjA2M/VEePdFvW6GBulAnDYs=
+
+Name: assets/beauty/1-5/5-2.jpg
+SHA1-Digest: 2JLR7hUo5A9qjcKwyDF77L8TL18=
+
+Name: assets/level/beauty_5.js
+SHA1-Digest: gWIk0PrZ50fzUL+l1pzT3pAYMLk=
+
+Name: assets/level/beauty_2.js
+SHA1-Digest: dDsgaUoxYJKj0xFLeB7M1ZOXIAg=
+
+Name: assets/beauty/1-3/3-1.jpg
+SHA1-Digest: S854/NDxXA/4pWEbbvtegU34D74=
+
+Name: assets/beauty/1-5/5-8.jpg
+SHA1-Digest: ZR9qUYs0ux2zt92gMB2CCck8s2o=
+
+Name: assets/beauty/1-6/6-8.jpg
+SHA1-Digest: QQCoXHuCqRk1vn4WwyvoFUTrha8=
+
+Name: assets/beauty/1-4/4-9.jpg
+SHA1-Digest: Z6VQ+euMCMqEZFbE9vndywJcwPw=
+
+Name: assets/beauty/1-6/6-7.jpg
+SHA1-Digest: aqkI+1ls1m7fbdEXLjXLblCzAfs=
+
+Name: assets/beauty/1-4/4-1.jpg
+SHA1-Digest: gTfLJBkPMJfJvleNGqkdscje4ME=
+
+Name: assets/music/sound_ef_level_win.mp3
+SHA1-Digest: EkmktjZrLxNppU1Vu1IF3T+z4v0=
+
+Name: assets/beauty/1-4/4-10.jpg
+SHA1-Digest: c4wysQdaslDd5PHrNYtFHMtN09w=
+
+Name: assets/level/beauty_0.js
+SHA1-Digest: KMu/AjE8eDZshIMxyeSn4y99Liw=
+
+Name: assets/PanelEvilGain.ExportJson
+SHA1-Digest: mDd/jBQo63M9xc5b7Q2VBZuFEdo=
+
+Name: assets/level/beauty_1.js
+SHA1-Digest: 05d0GimXtb72g810Cq22S3wvevw=
+
+Name: assets/music/sound_mu_menu.mp3
+SHA1-Digest: uIKfG8tfVidiekTOdBshVXHGlzE=
+
+Name: assets/beauty/1-1/1-9.jpg
+SHA1-Digest: shnEF8WOhzJP6fM2pZ9ctN9Iziw=
+
+Name: assets/beauty/1-1/1-1.jpg
+SHA1-Digest: XabfNDhqk+MgbSxlEn+WGS7BYYY=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: 2R6WhRUMH+Yyw8+Dp190mfVdH5g=
+
+Name: res/layout/egame_fee_layout.xml
+SHA1-Digest: AJD3L4ZgVWGhaEKeHntkfsTze2E=
+
+Name: assets/beauty/1-6/6-6.jpg
+SHA1-Digest: wdSQU2CRGkO23AskIPDRIx5dEL8=
+
+Name: assets/beauty/1-3/3-5.jpg
+SHA1-Digest: RqRcB6k5mDRMmKmhBVHqjW0qPeE=
+
+Name: assets/SelectUI.ExportJson
+SHA1-Digest: 2QbwHI25Iw77aLZDQc2cg9eEnMQ=
+
+Name: assets/beauty/1-6/6-1.jpg
+SHA1-Digest: YZYNZQcIPbzuqxq+yNSpw1JWRIE=
+
+Name: assets/beauty/1-4/4-4.jpg
+SHA1-Digest: Zh/jgGv3sM/wEw/tvS4CxbrHILM=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: i3DNWM3N5KyYU50AewGsjGi7Jrk=
+
+Name: res/drawable-hdpi/egame_logo_icon.png
+SHA1-Digest: LTF/XOPAutM4JrU9LxKivpBB7B4=
+
