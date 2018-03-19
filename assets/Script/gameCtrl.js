@@ -17,16 +17,26 @@ cc.Class({
         main_world_prefab:{
             default:null,
             type : cc.Prefab
+        },
+        selectLayer_prefab:{
+            default:null,
+            type : cc.Prefab
         }
     },
 
     // LIFE-CYCLE CALLBACKS:
 
-    onLoad () {
+    onLoad : function() {
+        var self = this;
         global.eventlistener = EventListener({});
         global.eventlistener.on("intoGame",function () {
             console.log("will into game ");
-            
+            self.enterSelectLayer()
+        });
+
+        global.eventlistener.on("selectToMain",function () {
+            console.log("will back to main ");
+            self.enterMainWorld()
         });
 
 
@@ -40,6 +50,15 @@ cc.Class({
             this.runningWorld.removeFromParent(true);
         }
         this.runningWorld = cc.instantiate(this.main_world_prefab);
+        this.runningWorld.parent = this.node;
+    },
+
+    enterSelectLayer : function () {
+        console.log("enter selectLayer..")
+        if(this.runningWorld != undefined){
+            this.runningWorld.removeFromParent(true);
+        }
+        this.runningWorld = cc.instantiate(this.selectLayer_prefab);
         this.runningWorld.parent = this.node;
     }
 

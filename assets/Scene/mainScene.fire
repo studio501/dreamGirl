@@ -180,6 +180,9 @@
     "_enabled": true,
     "main_world_prefab": {
       "__uuid__": "befcc610-571f-4391-9987-c46bbe5c1170"
+    },
+    "selectLayer_prefab": {
+      "__uuid__": "7253143d-d9d9-43d4-8103-f9e9eb2fd4c5"
     }
   }
 ]
